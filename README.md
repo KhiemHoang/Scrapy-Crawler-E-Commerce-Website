@@ -5,6 +5,6 @@ Install scrapy before launch, run: "pip install Scrapy" <br/>
 Ref: http://doc.scrapy.org/en/latest/intro/install.html <br/>
 
 <h3>How to use:</h3>
-Using cmd, move to destination where you store this git.<br/>
+Using cmd, move to destination where you store this git > name_git/crawler.<br/>
 Run "scrapy crawl crawler".<br/>
 Open file "HotDeal.txt" to see results.<br/>
